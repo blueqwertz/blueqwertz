@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @blueqwertz
 - 👀 I’m interested in Web Development, NodeJS
-- 🌱 I’m currently learning JS, Node, Electron
+- 🌱 I’m currently working on a Chess Engine called "DashEngine"
 - 📫 How to reach me: E-Mail me at timlimlei@icloud.com
