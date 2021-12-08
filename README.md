@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Tim aka @blueqwertz
-- 👀 I’m interested in Web Development, NodeJS and Python
-- ♟ I’m currently working on a Chess Bot called "DashEngine"
+- 👀 I'm interested in Web Development, NodeJS and Python
+- 📱 I'm currently working on an encrypted messaging app in Python 
 - 📫 Contact me at timlimlei@icloud.com
