@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Tim aka @blueqwertz
-- 👀 I'm interested in Web Development, NodeJS and Python
-- 📱 I'm currently working on an encrypted messaging app in Python 
+- 👀 I'm interested in Web Development, Rust, NodeJS and Python
+- 📱 I'm currently working on a chess engine in Rust
 - 📫 Contact me at timlimlei@icloud.com
